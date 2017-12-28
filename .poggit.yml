@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Syams225/PlayerDeathAnimation
+branches:
+- master
+projects:
+  PlayerDeathAnimation:
+    path: ""
+...
