@@ -1,0 +1,6 @@
+name: PlayerCorpse
+version: 1.0.0[S255]
+author: Syams255
+api: [3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 4.0.0]
+main: Syams255\Loader
+website: https://github.com/Syams225
